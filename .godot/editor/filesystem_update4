@@ -1,7 +1,7 @@
-res://enemy/enemy.tscn
+res://utility/enemy_spawner.tscn
+res://utility/enemy_spawner.gd
 res://world/world.tscn
 res://player/player.tscn
+res://enemy/enemy.tscn
 res://utility/hit_box.tscn
 res://utility/hurt_box.tscn
-res://utility/hurt_box.gd
-res://utility/hit_box.gd

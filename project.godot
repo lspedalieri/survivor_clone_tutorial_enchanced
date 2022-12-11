@@ -8,6 +8,16 @@
 
 config_version=5
 
+_global_script_classes=[{
+"base": "Resource",
+"class": &"Spawn_info",
+"language": &"GDScript",
+"path": "res://utility/spawn_info.gd"
+}]
+_global_script_class_icons={
+"Spawn_info": ""
+}
+
 [application]
 
 config/name="Survivors Clone"
